@@ -1,287 +1,2553 @@
 [
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "RIZIN in Korea",
+    "date": "Saturday, May 31, 12:00 AM ET",
+    "link": "https://www.tapology.com/fightcenter/events/126315-rizin-in-korea",
+    "orgImage": "https://images.tapology.com/logo_squares/1561/icon_bw/RIZIN_Fighting_Federation_Poster-sq.png?1721407472",
+    "sport": "MMA & Kickboxing",
+    "location": "Seoul, KR•\nSouth Korea Region",
+    "watch": "Internet PPV",
+    "fights": [
+      {
+        "main": true,
+        "weight": "157",
+        "fighterA": {
+          "name": "Roberto de Souza",
+          "record": "18-3",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/57177/preview/Roberto-de-Souza.jpg?1666803365",
+          "link": "https://www.tapology.com/fightcenter/fighters/57177-roberto-de-souza-satoshi"
+        },
+        "fighterB": {
+          "name": "Won Bin Ki",
+          "record": "18-9",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/87166-won-bin-ki"
+        }
+      },
+      {
+        "main": true,
+        "weight": "157",
+        "fighterA": {
+          "name": "Juri Ohara",
+          "record": "36-21-2",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/23500/preview/Screenshot_%284%29.png?1748061986",
+          "link": "https://www.tapology.com/fightcenter/fighters/23500-juri-ohara"
+        },
+        "fighterB": {
+          "name": "Johnny Case",
+          "record": "28-10-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/16822-john-case"
+        }
+      },
+      {
+        "main": true,
+        "weight": "134",
+        "fighterA": {
+          "name": "Soo Chul Kim",
+          "record": "23-8-1",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/13862/preview/Screenshot_%283%29.png?1713804800",
+          "link": "https://www.tapology.com/fightcenter/fighters/13862-soo-chul-kim"
+        },
+        "fighterB": {
+          "name": "Shoko Sato",
+          "record": "36-16-2",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/shoko-sato"
+        }
+      },
+      {
+        "main": true,
+        "weight": "146",
+        "fighterA": {
+          "name": "Hyuk Min Ji",
+          "record": "4-1",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/368302/preview/Screenshot_%287%29.png?1748062059",
+          "link": "https://www.tapology.com/fightcenter/fighters/368302-hyuk-min-ji"
+        },
+        "fighterB": {
+          "name": "Koji Takeda",
+          "record": "17-7",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/148789-koji-takeda"
+        }
+      },
+      {
+        "main": true,
+        "weight": "134",
+        "fighterA": {
+          "name": "Ji Yong Yang",
+          "record": "9-3",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/217915/preview/Screen_Shot_2020-07-04_at_11.47.01_AM.png?1593830888",
+          "link": "https://www.tapology.com/fightcenter/fighters/217915-ji-yong-yang"
+        },
+        "fighterB": {
+          "name": "Yuto Hokamura",
+          "record": "15-14-2",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/35578-kintaro-kintaro"
+        }
+      },
+      {
+        "main": true,
+        "weight": "146",
+        "fighterA": {
+          "name": "Young Jae Song",
+          "record": "7-1-1",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/73543/preview/27545409_1823031387716845_4466339514044070160_n.jpg?1518577999",
+          "link": "https://www.tapology.com/fightcenter/fighters/73543-young-jae-song"
+        },
+        "fighterB": {
+          "name": "Yoshiki Nakahara",
+          "record": "18-7",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/39415-yuki-nakahara"
+        }
+      },
+      {
+        "main": true,
+        "weight": "108",
+        "fighterA": {
+          "name": "Yu Ri Shim",
+          "record": "6-5",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/142830/preview/FUz5QuZaQAE-AvQ.jpg?1654815361",
+          "link": "https://www.tapology.com/fightcenter/fighters/142830-yuri-shim"
+        },
+        "fighterB": {
+          "name": "Kate Oyama",
+          "record": "6-7",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/272248-kate-lotus"
+        }
+      },
+      {
+        "main": true,
+        "weight": "157",
+        "fighterA": {
+          "name": "Si Won Kim",
+          "record": "4-1",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/287785/preview/Screenshot_%288%29.png?1748062089",
+          "link": "https://www.tapology.com/fightcenter/fighters/287785-si-won-kim"
+        },
+        "fighterB": {
+          "name": "Sho Patrick Usami",
+          "record": "7-4",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/296795-sho-usami-patrick"
+        }
+      },
+      {
+        "main": true,
+        "weight": "139",
+        "fighterA": {
+          "name": "Yong Chul Kwon",
+          "record": "0-0",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/103020/preview/Screenshot_%2810%29.png?1748062190",
+          "link": "https://www.tapology.com/fightcenter/fighters/103020-yong-chul-kwon"
+        },
+        "fighterB": {
+          "name": "Kota Miura",
+          "record": "2-2",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/320045-kota-miura"
+        }
+      },
+      {
+        "main": true,
+        "weight": "137",
+        "fighterA": {
+          "name": "Bum Jun Kang",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/216228/preview/Screenshot_%2811%29.png?1748062245",
+          "link": "https://www.tapology.com/fightcenter/fighters/216228-bum-jun-kang"
+        },
+        "fighterB": {
+          "name": "Seiya Inoue",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/407186-seiya-inoue"
+        }
+      },
+      {
+        "main": true,
+        "weight": "149",
+        "fighterA": {
+          "name": "San Hae Cho",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/246978/preview/thumb-76b06b428476d42994961a8fcca5baf4_600x0.jpg?1577074373",
+          "link": "https://www.tapology.com/fightcenter/fighters/246978-san-hae-cho"
+        },
+        "fighterB": {
+          "name": "Hide Meison Usami",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/307522-mason-shu-usami"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "UFC Fight Night: Blanchfield vs. Barber",
+    "date": "Saturday, May 31,  6:00 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/123251-ufc-fight-night",
+    "orgImage": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "sport": "MMA",
+    "location": "Las Vegas, NV•\nUS West Region",
+    "watch": "ESPN+",
+    "fights": [
+      {
+        "main": true,
+        "weight": "125",
+        "fighterA": {
+          "name": "Erin Blanchfield",
+          "record": "13-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/167460/preview/Erin_Blanchfield-hs.jpg?1676302976",
+          "link": "https://www.tapology.com/fightcenter/fighters/167460-erin-blanchfield"
+        },
+        "fighterB": {
+          "name": "Maycee Barber",
+          "record": "14-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/143925-maycee-barber"
+        }
+      },
+      {
+        "main": true,
+        "weight": "155",
+        "fighterA": {
+          "name": "Mateusz Gamrot",
+          "record": "24-3",
+          "country": "https://www.tapology.com/assets/flags/PL-6bfbe1335d2bffff514135a578895add253182687b5e5a81ded6bbf986755f29.gif",
+          "picture": "https://images.tapology.com/headshot_images/26305/preview/Mateusz_Gamrot.jpg?1543513540",
+          "link": "https://www.tapology.com/fightcenter/fighters/26305-mateusz-gamrot"
+        },
+        "fighterB": {
+          "name": "Ľudovít Klein",
+          "record": "23-4-1",
+          "country": "https://www.tapology.com/assets/flags/SK-bde384fdb35695760e98f1a52396339e78f7ec69913beba50f14e235eca03387.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/102094-ludovit-klein"
+        }
+      },
+      {
+        "main": true,
+        "weight": "205",
+        "fighterA": {
+          "name": "Dustin Jacoby",
+          "record": "20-9-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/15069/preview/Jacoby-Dustin-UFC137-1-hs.jpg?1319864634",
+          "link": "https://www.tapology.com/fightcenter/fighters/15069-dustin-jacoby"
+        },
+        "fighterB": {
+          "name": "Bruno Lopes",
+          "record": "14-1",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/78682-bruno-lopes"
+        }
+      },
+      {
+        "main": true,
+        "weight": "170",
+        "fighterA": {
+          "name": "Ramiz Brahimaj",
+          "record": "11-5",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/129794/preview/Screenshot_%283%29.png?1744235641",
+          "link": "https://www.tapology.com/fightcenter/fighters/129794-ramiz-brahimaj"
+        },
+        "fighterB": {
+          "name": "Billy Ray Goff",
+          "record": "9-3",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/169724-billy-goff"
+        }
+      },
+      {
+        "main": true,
+        "weight": "185",
+        "fighterA": {
+          "name": "Zach Reese",
+          "record": "8-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/35756/preview/reese2.jpg?1682312468",
+          "link": "https://www.tapology.com/fightcenter/fighters/35756-zack-reese"
+        },
+        "fighterB": {
+          "name": "Duško Todorović",
+          "record": "12-5",
+          "country": "https://www.tapology.com/assets/flags/RS-70f435d9880643fe18a4cc3482a89ffb1e71cea5f86e2a1e5de1273f772f5353.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/114625-duko-todorovi"
+        }
+      },
+      {
+        "main": false,
+        "weight": "125",
+        "fighterA": {
+          "name": "Allan Nascimento",
+          "record": "20-6",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/30534/preview/Allan_Nascimento-hs.jpg?1655130760",
+          "link": "https://www.tapology.com/fightcenter/fighters/30534-alan-nascimento"
+        },
+        "fighterB": {
+          "name": "Jafel Filho",
+          "record": "16-3",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/46690-jafel-cavalcante-filho"
+        }
+      },
+      {
+        "main": false,
+        "weight": "135",
+        "fighterA": {
+          "name": "Ketlen Vieira",
+          "record": "14-4",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/99972/preview/Ketlen_Vieira-hs.jpg?1632965253",
+          "link": "https://www.tapology.com/fightcenter/fighters/99972-ketlen-vieira-fenomeno"
+        },
+        "fighterB": {
+          "name": "Macy Chiasson",
+          "record": "10-3",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/77737-macy-chiasson"
+        }
+      },
+      {
+        "main": false,
+        "weight": "180",
+        "fighterA": {
+          "name": "Andreas Gustafsson",
+          "record": "11-2",
+          "country": "https://www.tapology.com/assets/flags/SE-95d4df00f6faac596e2154769f654e65156e2a0eac3c60b917e69f4d9e39dee8.gif",
+          "picture": "https://images.tapology.com/headshot_images/138927/preview/Bane_Tapology_Small_2.jpg?1603018001",
+          "link": "https://www.tapology.com/fightcenter/fighters/138927-andreas-berg"
+        },
+        "fighterB": {
+          "name": "Trevin Giles",
+          "record": "16-7",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/20072-trevin-giles"
+        }
+      },
+      {
+        "main": false,
+        "weight": "155",
+        "fighterA": {
+          "name": "Jordan Leavitt",
+          "record": "11-3",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/90318/preview/Jordan_Leavitt.jpg?1617328941",
+          "link": "https://www.tapology.com/fightcenter/fighters/90318-jordan-leavitt"
+        },
+        "fighterB": {
+          "name": "Kurt Holobaugh",
+          "record": "21-9",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/27877-kurt-holobaugh"
+        }
+      },
+      {
+        "main": false,
+        "weight": "155",
+        "fighterA": {
+          "name": "MarQuel Mederos",
+          "record": "10-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/168712/preview/Screenshot.png?1741310160",
+          "link": "https://www.tapology.com/fightcenter/fighters/168712-marquel-mederos"
+        },
+        "fighterB": {
+          "name": "Bolaji Oki",
+          "record": "9-2",
+          "country": "https://www.tapology.com/assets/flags/BE-f0249eb7f38004996f46975ade47d10918e9cf07260c581e4656af5f777c5c61.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/158527-bolaji-oki"
+        }
+      },
+      {
+        "main": false,
+        "weight": "115",
+        "fighterA": {
+          "name": "Rayanne dos Santos",
+          "record": "14-8",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/188018/preview/Screenshot_%281%29.png?1711673430",
+          "link": "https://www.tapology.com/fightcenter/fighters/188018-rayanne-amanda"
+        },
+        "fighterB": {
+          "name": "Alice Ardelean",
+          "record": "9-7",
+          "country": "https://www.tapology.com/assets/flags/RO-f09a16fef6e4ef9b8da4cefb1fd9d9fd50de9196c1328f7fc22d8994cb41902d.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/84463-alice-ardelean"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "ONE Fight Night 32: Nakrob vs. Jaosuayai",
+    "date": "Friday, June  6,  8:00 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/124933-one-fight-night-32",
+    "orgImage": "https://images.tapology.com/logo_squares/61/icon_bw/One-Fighting-Championship-OFC-MMA-logo-square.jpg?1721405868",
+    "sport": "Muay Thai",
+    "location": "Bangkok, TH•\nAsia Southeast Region",
+    "watch": "Amazon Prime",
+    "fights": [
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Nakrob Fairtex",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/TH-074f5641611b5366883e960c5077ad0dc605e2f0bde7270910c0e36bd5e3e19f.gif",
+          "picture": "https://images.tapology.com/headshot_images/287446/preview/nakrobheadshot.jpg?1614321020",
+          "link": "https://www.tapology.com/fightcenter/fighters/287446-nakrob-fairtex"
+        },
+        "fighterB": {
+          "name": "J. Sor.Dechaphan",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/TH-074f5641611b5366883e960c5077ad0dc605e2f0bde7270910c0e36bd5e3e19f.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/238346-jawsuayai-ayothaya-fight-gym"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "UFC 316: Dvalishvili vs. O'Malley 2",
+    "date": "Saturday, June  7,  6:00 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/124620-ufc-316",
+    "orgImage": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "sport": "MMA",
+    "location": "Newark, NJ•\nUS Northeast Region",
+    "watch": "Pay Per View",
+    "fights": [
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Merab Dvalishvili",
+          "record": "19-4",
+          "country": "https://www.tapology.com/assets/flags/GE-46e71ebd13f4e3f14b56f61538a1d026361bee9e3a68ed169cf30520d087c2fa.gif",
+          "picture": "https://images.tapology.com/headshot_images/47934/preview/Screenshot_%283%29.png?1746475540",
+          "link": "https://www.tapology.com/fightcenter/fighters/47934-merab-dvalishvili"
+        },
+        "fighterB": {
+          "name": "Sean O'Malley",
+          "record": "18-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/68186-sean-omalley"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Julianna Peña",
+          "record": "11-5",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/1576/preview/Julianna-Pena.jpg?1438730149",
+          "link": "https://www.tapology.com/fightcenter/fighters/julianna-pena-the-venezuelan-vixen"
+        },
+        "fighterB": {
+          "name": "Kayla Harrison",
+          "record": "18-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/34265-kayla-harrison"
+        }
+      },
+      {
+        "main": true,
+        "weight": "185",
+        "fighterA": {
+          "name": "Kelvin Gastelum",
+          "record": "19-9",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/41355/preview/Screenshot_%281%29.png?1712209270",
+          "link": "https://www.tapology.com/fightcenter/fighters/41355-kelvin-gastelum"
+        },
+        "fighterB": {
+          "name": "Joe Pyfer",
+          "record": "13-3",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/144942-joseph-pyfer"
+        }
+      },
+      {
+        "main": true,
+        "weight": "170",
+        "fighterA": {
+          "name": "Vicente Luque",
+          "record": "23-10-1",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/16651/preview/vicente-luque-hs.jpg?1544822534",
+          "link": "https://www.tapology.com/fightcenter/fighters/16651-vicente-luque"
+        },
+        "fighterB": {
+          "name": "Kevin Holland",
+          "record": "27-13",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/35757-kevin-holland"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Mario Bautista",
+          "record": "15-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/33428/preview/Screenshot_%281%29.png?1722528697",
+          "link": "https://www.tapology.com/fightcenter/fighters/33428-mario-bautista"
+        },
+        "fighterB": {
+          "name": "Patchy Mix",
+          "record": "20-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/64036-patrick-mix"
+        }
+      },
+      {
+        "main": false,
+        "weight": "125",
+        "fighterA": {
+          "name": "Bruno Silva",
+          "record": "14-6-2",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/55253/preview/Bruno_Silva.jpg?1558534526",
+          "link": "https://www.tapology.com/fightcenter/fighters/55253-bruno-gustavo-aparecido-da-silva-bulldog"
+        },
+        "fighterB": {
+          "name": "Joshua Van",
+          "record": "13-2",
+          "country": "https://www.tapology.com/assets/flags/MM-0ac8442d412a5bcbdd73568859a65683472d5c59ac8b356dbc1c6dc7922ce637.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/254261-joshua-thawng"
+        }
+      },
+      {
+        "main": false,
+        "weight": "125",
+        "fighterA": {
+          "name": "Ariane Lipski da Silva",
+          "record": "17-10",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/57056/preview/Ariane_Lipski-hs.png?1537889035",
+          "link": "https://www.tapology.com/fightcenter/fighters/57056-ariane-lipski"
+        },
+        "fighterB": {
+          "name": "Cong Wang",
+          "record": "7-1",
+          "country": "https://www.tapology.com/assets/flags/CN-39a4cba872f45e48783a6aa2584da07957177092136272167f4965b759420e9e.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/271545-cong-wang"
+        }
+      },
+      {
+        "main": false,
+        "weight": "265",
+        "fighterA": {
+          "name": "Serghei Spivac",
+          "record": "17-5",
+          "country": "https://www.tapology.com/assets/flags/MD-2a183deefcaca97f239bbb4dd7f0442ff212cabb065cd54fbf5c260006ee2ad4.gif",
+          "picture": "https://images.tapology.com/headshot_images/90068/preview/1338089865.jpg?1664045262",
+          "link": "https://www.tapology.com/fightcenter/fighters/90068-sergey-spivak"
+        },
+        "fighterB": {
+          "name": "Waldo Cortes-Acosta",
+          "record": "13-1",
+          "country": "https://www.tapology.com/assets/flags/DO-d333175daa8c7a4f506a87c10f25fc10c23e17b78eb451434a38a3ca51b0b7e4.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/92314-waldo-cortes-acosta"
+        }
+      },
+      {
+        "main": false,
+        "weight": "145",
+        "fighterA": {
+          "name": "Joo Sang Yoo",
+          "record": "8-0",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/157789/preview/Untitled7.jpg?1673876895",
+          "link": "https://www.tapology.com/fightcenter/fighters/157789-joo-sang-yoo"
+        },
+        "fighterB": {
+          "name": "Jeka Saragih",
+          "record": "14-4",
+          "country": "https://www.tapology.com/assets/flags/ID-89500c7bb4986d8b34df7e65e60d548ad6df7c9c8d8eece671b2f504fafea49b.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/169642-jeka-a-saragih"
+        }
+      },
+      {
+        "main": false,
+        "weight": "170",
+        "fighterA": {
+          "name": "Khaos Williams",
+          "record": "15-4",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/97154/preview/Screenshot.png?1712112660",
+          "link": "https://www.tapology.com/fightcenter/fighters/97154-kalinn-williams"
+        },
+        "fighterB": {
+          "name": "Uros Medic",
+          "record": "10-3",
+          "country": "https://www.tapology.com/assets/flags/RS-70f435d9880643fe18a4cc3482a89ffb1e71cea5f86e2a1e5de1273f772f5353.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/175629-uros-medic"
+        }
+      },
+      {
+        "main": false,
+        "weight": "205",
+        "fighterA": {
+          "name": "Azamat Murzakanov",
+          "record": "14-0",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/93373/preview/Azamat_Murzakanov.jpg?1622077900",
+          "link": "https://www.tapology.com/fightcenter/fighters/93373-azamat-murzakanov"
+        },
+        "fighterB": {
+          "name": "Brendson Ribeiro",
+          "record": "17-7",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/119779-brendson-ribeiro-zyzz"
+        }
+      },
+      {
+        "main": false,
+        "weight": "155",
+        "fighterA": {
+          "name": "Quillan Salkilld",
+          "record": "8-1",
+          "country": "https://www.tapology.com/assets/flags/AU-429ed070b76f87de04728ef13b9d68e308be36cf4444bb32eb97564ae7016ff1.gif",
+          "picture": "https://images.tapology.com/headshot_images/195051/preview/Screenshot.png?1725340983",
+          "link": "https://www.tapology.com/fightcenter/fighters/195051-quilland-salkid"
+        },
+        "fighterB": {
+          "name": "Yanal Ashmouz",
+          "record": "8-1",
+          "country": "https://www.tapology.com/assets/flags/IL-4f2cdf51eacceb854c7ec54633ad5d99dbfec958649a4e3e6a59ffb057fd4dbd.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/164201-yanal-ashmoz-red-fox"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "PFL 2025 World Tournament: Semifinals 1",
+    "date": "Thursday, June 12,  8:30 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/122869-pfl-2025-world-tournament-semifinals-1",
+    "orgImage": "https://images.tapology.com/logo_squares/1969/icon_bw/Professional_Fighters_League-logo-square.jpg?1721407793",
+    "sport": "MMA",
+    "location": "Nashville, TN•\nUS Southeast Region",
+    "watch": "ESPN",
+    "fights": [
+      {
+        "main": true,
+        "weight": "170",
+        "fighterA": {
+          "name": "Jason Jackson",
+          "record": "19-5",
+          "country": "https://www.tapology.com/assets/flags/JM-c2d658d1886b8d0bb6dde82fe194ede7deb47ead426d00779a931dac620095d6.gif",
+          "picture": "https://images.tapology.com/headshot_images/26347/preview/Jason-Jackson.jpg?1594832748",
+          "link": "https://www.tapology.com/fightcenter/fighters/26347-jason-jackson"
+        },
+        "fighterB": {
+          "name": "Thad Jean",
+          "record": "9-0",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/174385-thad-jean"
+        }
+      },
+      {
+        "main": true,
+        "weight": "145",
+        "fighterA": {
+          "name": "Jesus Pinedo",
+          "record": "24-6-1",
+          "country": "https://www.tapology.com/assets/flags/PE-f85092db2c51d3968a1ad4b9b03b0caa9fc0d4188d88a70eaef9798fdf24f3e9.gif",
+          "picture": "https://images.tapology.com/headshot_images/55567/preview/IMG-20230801-WA0139.jpg?1691077591",
+          "link": "https://www.tapology.com/fightcenter/fighters/55567-jesus-pinedo"
+        },
+        "fighterB": {
+          "name": "Gabriel Braga",
+          "record": "16-2",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/190856-gabriel-alves"
+        }
+      },
+      {
+        "main": true,
+        "weight": "170",
+        "fighterA": {
+          "name": "Logan Storley",
+          "record": "17-3",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/109294/preview/Logan-Storley-hs.jpg?1629385840",
+          "link": "https://www.tapology.com/fightcenter/fighters/109294-logan-storley-storm"
+        },
+        "fighterB": {
+          "name": "Masayuki Kikuiri",
+          "record": "11-2-1",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/152955-masayuki-kikuiri"
+        }
+      },
+      {
+        "main": true,
+        "weight": "145",
+        "fighterA": {
+          "name": "Movlid Khaybulaev",
+          "record": "22-0-1",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/68161/preview/Movlid_Khaybulaev.jpg?1629428253",
+          "link": "https://www.tapology.com/fightcenter/fighters/68161-mavlidin-khaibulaev"
+        },
+        "fighterB": {
+          "name": "Tae Kyun Kim",
+          "record": "11-1",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/138110-tae-kyun-kim"
+        }
+      },
+      {
+        "main": false,
+        "weight": "145",
+        "fighterA": {
+          "name": "Jeremy Kennedy",
+          "record": "19-6",
+          "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+          "picture": "https://images.tapology.com/headshot_images/21079/preview/Jeremy_Kennedy.jpg?1559927493",
+          "link": "https://www.tapology.com/fightcenter/fighters/21079-jeremy-kennedy-fence"
+        },
+        "fighterB": {
+          "name": "Ádám Borics",
+          "record": "19-3",
+          "country": "https://www.tapology.com/assets/flags/HU-c86a7342f275c63fb93b8ad24d77e97d076057a5551d97f6a725793867e85477.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/94515-adam-borics"
+        }
+      },
+      {
+        "main": false,
+        "weight": "170",
+        "fighterA": {
+          "name": "Magomed Umalatov",
+          "record": "17-1",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/139604/preview/Screenshot_%285%29.png?1712456501",
+          "link": "https://www.tapology.com/fightcenter/fighters/139604-magomed-umalatov"
+        },
+        "fighterB": {
+          "name": "Andrey Koreshkov",
+          "record": "28-6",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/18069-andrey-koreshkov-spartan"
+        }
+      },
+      {
+        "main": false,
+        "weight": "170",
+        "fighterA": {
+          "name": "Joseph Luciano",
+          "record": "10-3",
+          "country": "https://www.tapology.com/assets/flags/AU-429ed070b76f87de04728ef13b9d68e308be36cf4444bb32eb97564ae7016ff1.gif",
+          "picture": "https://images.tapology.com/headshot_images/136006/preview/Joseph_Luciano-hs.jpg?1656902395",
+          "link": "https://www.tapology.com/fightcenter/fighters/136006-joseph-luciano"
+        },
+        "fighterB": {
+          "name": "Sarek Shields",
+          "record": "6-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/200306-sarek-shields"
+        }
+      },
+      {
+        "main": false,
+        "weight": "170",
+        "fighterA": {
+          "name": "Mukhamed Berkhamov",
+          "record": "17-3",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/60337/preview/Mukhamed_Berkhamov-hs.png?1598806373",
+          "link": "https://www.tapology.com/fightcenter/fighters/60337-mukhamed-berkhamov"
+        },
+        "fighterB": {
+          "name": "Kendly St. Louis",
+          "record": "10-4",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/105788-kendley-st-louise"
+        }
+      },
+      {
+        "main": false,
+        "weight": "145",
+        "fighterA": {
+          "name": "Alexei Pergande",
+          "record": "5-0",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/230250/preview/pergrande.jpg?1721249917",
+          "link": "https://www.tapology.com/fightcenter/fighters/230250-alexei-pergande"
+        },
+        "fighterB": {
+          "name": "Mike Bardsley",
+          "record": "5-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/241756-mike-bardsley"
+        }
+      },
+      {
+        "main": false,
+        "weight": "135",
+        "fighterA": {
+          "name": "Jason Danner",
+          "record": "2-0",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/133831/preview/Jason_Danner-hs.jpg?1527953003",
+          "link": "https://www.tapology.com/fightcenter/fighters/133831-jason-danner"
+        },
+        "fighterB": {
+          "name": "Nathan Gilmore",
+          "record": "4-5",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/144443-nathan-gilmore"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "RIZIN LANDMARK 11 in SAPPORO",
+    "date": "Saturday, June 14, 12:00 AM ET",
+    "link": "https://www.tapology.com/fightcenter/events/127744-rizin-landmark-11-in-sapporo",
+    "orgImage": "https://images.tapology.com/logo_squares/1561/icon_bw/RIZIN_Fighting_Federation_Poster-sq.png?1721407472",
+    "sport": "MMA & Kickboxing",
+    "location": "Sapporo, Hokkaido Prefecture•\nJapan Region",
+    "watch": "",
+    "fights": [
+      {
+        "main": true,
+        "weight": "146",
+        "fighterA": {
+          "name": "Vugar Karamov",
+          "record": "20-6",
+          "country": "https://www.tapology.com/assets/flags/AZ-d06d676179ff49a1b7ec37455054c6f81b15b5064fa4739d8fd132f840a71c73.gif",
+          "picture": "https://images.tapology.com/headshot_images/56450/preview/vugar_karimov_headshot.jpg?1446644377",
+          "link": "https://www.tapology.com/fightcenter/fighters/56450-vugar-kyarimov"
+        },
+        "fighterB": {
+          "name": "Shuya Kimura",
+          "record": "5-0",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/418295-shuya-kimura"
+        }
+      },
+      {
+        "main": true,
+        "weight": "157",
+        "fighterA": {
+          "name": "Yoshinori Horie",
+          "record": "13-5",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/137641/preview/Yoshinori_Horie.jpg?1562264488",
+          "link": "https://www.tapology.com/fightcenter/fighters/137641-yoshinori-horie"
+        },
+        "fighterB": {
+          "name": "Yamato Nishikawa",
+          "record": "22-5-6",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/153702-yamato-nishikawa"
+        }
+      },
+      {
+        "main": true,
+        "weight": "146",
+        "fighterA": {
+          "name": "Viktor Kolesnik",
+          "record": "25-4-1",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/56448/preview/hh.jpg?1685540010",
+          "link": "https://www.tapology.com/fightcenter/fighters/56448-victor-kolesnik"
+        },
+        "fighterB": {
+          "name": "Keisuke Sasu",
+          "record": "14-3-1",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/126687-saske"
+        }
+      },
+      {
+        "main": true,
+        "weight": "265",
+        "fighterA": {
+          "name": "Alexander Soldatkin",
+          "record": "14-5",
+          "country": "https://www.tapology.com/assets/flags/DE-fe6537c9506b556831a53eea4a8923eb299737671943539aa4a09fe807ea12aa.gif",
+          "picture": "https://images.tapology.com/headshot_images/112918/preview/Alexander_Soldatkin-hs.jpg?1687992458",
+          "link": "https://www.tapology.com/fightcenter/fighters/112918-alexandr-soldatkin"
+        },
+        "fighterB": {
+          "name": "Prince Aounallah",
+          "record": "20-12",
+          "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/39211-prince-aounallah"
+        }
+      },
+      {
+        "main": true,
+        "weight": "134",
+        "fighterA": {
+          "name": "Taichi Nakajima",
+          "record": "18-13-1",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/23454/preview/Taichi-Nakashima-hs.jpeg?1335213467",
+          "link": "https://www.tapology.com/fightcenter/fighters/23454-taichi-nakashima"
+        },
+        "fighterB": {
+          "name": "Kosuke Terashima",
+          "record": "20-21-5",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/24867-coro-coro"
+        }
+      },
+      {
+        "main": true,
+        "weight": "134",
+        "fighterA": {
+          "name": "Joji Goto",
+          "record": "17-8-1",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/120270/preview/goto2.jpg?1698194715",
+          "link": "https://www.tapology.com/fightcenter/fighters/120270-takechi-goto"
+        },
+        "fighterB": {
+          "name": "Jinnosuke Kashimura",
+          "record": "8-4",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/254268-jinnosuke-kashimura"
+        }
+      },
+      {
+        "main": true,
+        "weight": "116",
+        "fighterA": {
+          "name": "Haruka Hasegawa",
+          "record": "5-5",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/321458/preview/Untitledda.jpg?1648183474",
+          "link": "https://www.tapology.com/fightcenter/fighters/321458-salt"
+        },
+        "fighterB": {
+          "name": "Machi Fukuda",
+          "record": "7-2",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/340339-machi-fukuda"
+        }
+      },
+      {
+        "main": true,
+        "weight": "134",
+        "fighterA": {
+          "name": "Magerram Gasanzade",
+          "record": "11-1",
+          "country": "https://www.tapology.com/assets/flags/AZ-d06d676179ff49a1b7ec37455054c6f81b15b5064fa4739d8fd132f840a71c73.gif",
+          "picture": "https://images.tapology.com/headshot_images/239316/preview/Screenshot_20210424_112155.jpg?1619256124",
+          "link": "https://www.tapology.com/fightcenter/fighters/239316-magerram-gasanzade"
+        },
+        "fighterB": {
+          "name": "Tatsuya Ando",
+          "record": "14-4-1",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/76663-tatsuya-ando"
+        }
+      },
+      {
+        "main": true,
+        "weight": "134",
+        "fighterA": {
+          "name": "Kanata Ueno",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/444519/preview/image.jpg?1747320491",
+          "link": "https://www.tapology.com/fightcenter/fighters/444519-kanata-ueno"
+        },
+        "fighterB": {
+          "name": "Kensei Yamakawa",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/192974-kenshin-yamakawa"
+        }
+      },
+      {
+        "main": true,
+        "weight": "141",
+        "fighterA": {
+          "name": "Kuto Ueno",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/373402/preview/image_%281%29.jpg?1747320855",
+          "link": "https://www.tapology.com/fightcenter/fighters/373402-kuto-ueno"
+        },
+        "fighterB": {
+          "name": "Farphayap",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/TH-074f5641611b5366883e960c5077ad0dc605e2f0bde7270910c0e36bd5e3e19f.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/376284-pharpayap"
+        }
+      },
+      {
+        "main": true,
+        "weight": "121",
+        "fighterA": {
+          "name": "Toshizo",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "/assets/logo/dark_on_light_104x104-00ef672c8a7e43260bf3a646af510edfc6583f7a59a8cf4fcf8555ab35a7c5c8.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/456421-toshizu"
+        },
+        "fighterB": {
+          "name": "Yuya Uzawa",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/256321-yuya-uzawa"
+        }
+      },
+      {
+        "main": true,
+        "weight": "146",
+        "fighterA": {
+          "name": "Ilkhom Nazimov",
+          "record": "11-3",
+          "country": "https://www.tapology.com/assets/flags/UZ-e40dacd38e6a24919d7fa41f8284acd039b4e70ec541da1e6f2693322a2670b7.gif",
+          "picture": "https://images.tapology.com/headshot_images/165877/preview/Untitled4.jpg?1550674499",
+          "link": "https://www.tapology.com/fightcenter/fighters/165877-ilkhom-nasimov"
+        },
+        "fighterB": {
+          "name": "Suguru Nii",
+          "record": "19-13",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/56017-suguru"
+        }
+      },
+      {
+        "main": true,
+        "weight": "265",
+        "fighterA": {
+          "name": "Sina Karimian",
+          "record": "0-0",
+          "country": "https://www.tapology.com/assets/flags/IR-7ebd7bcd85e1c0f2539496035203787bc5f334a4b8951afe7fa5f4a2c55842ff.gif",
+          "picture": "https://images.tapology.com/headshot_images/215264/preview/sina2.jpg?1743498255",
+          "link": "https://www.tapology.com/fightcenter/fighters/215264-sina-karimian"
+        },
+        "fighterB": {
+          "name": "Hidetaka Arato",
+          "record": "11-1",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/234342-hideotaka-arato"
+        }
+      },
+      {
+        "main": true,
+        "weight": "146",
+        "fighterA": {
+          "name": "Sora Yamamoto",
+          "record": "16-10-2",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/134596/preview/o06280960141134015875.jpg?1542948573",
+          "link": "https://www.tapology.com/fightcenter/fighters/134596-soraryo-yamamoto"
+        },
+        "fighterB": {
+          "name": "Hiroaki Suzuki",
+          "record": "4-6",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/153381-hiroaki-suzuki"
+        }
+      },
+      {
+        "main": true,
+        "weight": "146",
+        "fighterA": {
+          "name": "Raiki Endo",
+          "record": "16-15-5",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/125851/preview/kisugi-endo_hs.jpg?1712167156",
+          "link": "https://www.tapology.com/fightcenter/fighters/125851-kisugi-endo"
+        },
+        "fighterB": {
+          "name": "Zhaxibading",
+          "record": "1-0",
+          "country": "https://www.tapology.com/assets/flags/CN-39a4cba872f45e48783a6aa2584da07957177092136272167f4965b759420e9e.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/476521-zhaxibading"
+        }
+      },
+      {
+        "main": false,
+        "weight": "170",
+        "fighterA": {
+          "name": "Yuki Narita",
+          "record": "11-5-2",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/94232/preview/Untitled9.jpg?1554537136",
+          "link": "https://www.tapology.com/fightcenter/fighters/94232-yuki-narita"
+        },
+        "fighterB": {
+          "name": "Takashi Noto",
+          "record": "7-9",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/78590-takashi-noto"
+        }
+      },
+      {
+        "main": false,
+        "weight": "123",
+        "fighterA": {
+          "name": "Arashi Suzuki",
+          "record": "2-3",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/385809/preview/Rupp_gTm_400x400.jpg?1747319672",
+          "link": "https://www.tapology.com/fightcenter/fighters/385809-arashi-suzuki"
+        },
+        "fighterB": {
+          "name": "Suguru Hayasaka",
+          "record": "21-18-5",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/4922-suguru-hayasaka"
+        }
+      },
+      {
+        "main": false,
+        "weight": "134",
+        "fighterA": {
+          "name": "Daiki Kobayashi",
+          "record": "1-1",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/418678/preview/df3f19fd870ae0e7e6bb1d3acfc3e46e52c30feb_large.jpg?1748102599",
+          "link": "https://www.tapology.com/fightcenter/fighters/418678-daiki-kobayashi"
+        },
+        "fighterB": {
+          "name": "Yukito Morinaga",
+          "record": "10-4",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/96623-susumu-morinaga"
+        }
+      },
+      {
+        "main": false,
+        "weight": "116",
+        "fighterA": {
+          "name": "Kyohei Nishijima",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "picture": "https://images.tapology.com/headshot_images/456423/preview/e203669772a76c4635ef8e0dc9c61d63f406f7a6_large.jpg?1748102237",
+          "link": "https://www.tapology.com/fightcenter/fighters/456423-kyohei-nishijima"
+        },
+        "fighterB": {
+          "name": "Shuto Hayashi",
+          "record": "",
+          "country": "https://www.tapology.com/assets/flags/JP-9a8638bb4ad16191d186a0ecfb4a896adc79ecd2829785ed00e32d6537ae88e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/499963-shuto-hayashi"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "UFC Fight Night: Usman vs. Buckley",
+    "date": "Saturday, June 14,  6:00 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/125944-ufc-fight-night",
+    "orgImage": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "sport": "MMA",
+    "location": "Atlanta, GA•\nUS Southeast Region",
+    "watch": "ESPN+",
+    "fights": [
+      {
+        "main": true,
+        "weight": "170",
+        "fighterA": {
+          "name": "Kamaru Usman",
+          "record": "20-4",
+          "country": "https://www.tapology.com/assets/flags/NG-575bf37322d2ac63f8fb2c5d191599dcf13fc4dace1a6699945bdc7feb3793b4.gif",
+          "picture": "https://images.tapology.com/headshot_images/39265/preview/Kamaru_Usman-hs.jpg?1543185226",
+          "link": "https://www.tapology.com/fightcenter/fighters/39265-kamarudeen-usman"
+        },
+        "fighterB": {
+          "name": "Joaquin Buckley",
+          "record": "21-6",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/55022-joaquin-buckley"
+        }
+      },
+      {
+        "main": true,
+        "weight": "125",
+        "fighterA": {
+          "name": "Rose Namajunas",
+          "record": "13-7",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/39227/preview/Rose-Namajunas-hs.jpeg?1424742726",
+          "link": "https://www.tapology.com/fightcenter/fighters/39227-rose-namajunas-the-riveter"
+        },
+        "fighterB": {
+          "name": "Miranda Maverick",
+          "record": "15-5",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/116637-miranda-maverick"
+        }
+      },
+      {
+        "main": true,
+        "weight": "205",
+        "fighterA": {
+          "name": "Alonzo Menifield",
+          "record": "16-5-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/69032/preview/Alonzo_Menifield-hs.jpg?1660791154",
+          "link": "https://www.tapology.com/fightcenter/fighters/69032-alonzo-menifield"
+        },
+        "fighterB": {
+          "name": "Oumar Sy",
+          "record": "11-0",
+          "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/184677-oumar-sy"
+        }
+      },
+      {
+        "main": true,
+        "weight": "185",
+        "fighterA": {
+          "name": "Edmen Shahbazyan",
+          "record": "14-5",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/142325/preview/Edmen_Shahbazyan-hs.jpg?1538069642",
+          "link": "https://www.tapology.com/fightcenter/fighters/142325-edmen-shahbazyan"
+        },
+        "fighterB": {
+          "name": "Andre Petroski",
+          "record": "13-3",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/123353-andre-petroski"
+        }
+      },
+      {
+        "main": true,
+        "weight": "185",
+        "fighterA": {
+          "name": "Cody Brundage",
+          "record": "11-6",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/169818/preview/Screenshot_%282%29.png?1712456326",
+          "link": "https://www.tapology.com/fightcenter/fighters/169818-cody-brundage"
+        },
+        "fighterB": {
+          "name": "Mansur Abdul-Malik",
+          "record": "8-0",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/236993-mansur-abdul-malik"
+        }
+      },
+      {
+        "main": true,
+        "weight": "170",
+        "fighterA": {
+          "name": "Michael Chiesa",
+          "record": "18-7",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/15253/preview/michael-chiesa.jpg?1580006224",
+          "link": "https://www.tapology.com/fightcenter/fighters/15253-mike-chiesa-maverick"
+        },
+        "fighterB": {
+          "name": "Court McGee",
+          "record": "22-13",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/court-mcgee-the-crusher"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Cody Garbrandt",
+          "record": "14-6",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/21780/preview/Cody-Garbrandt-hs.jpg?1437931051",
+          "link": "https://www.tapology.com/fightcenter/fighters/21780-cody-garbrandt-no-love"
+        },
+        "fighterB": {
+          "name": "Raoni Barcelos",
+          "record": "19-5",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/30448-raoni-barcellos"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Ricky Simón",
+          "record": "21-6",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/33229/preview/RIBZ.jpg?1547831506",
+          "link": "https://www.tapology.com/fightcenter/fighters/33229-ricky-simon"
+        },
+        "fighterB": {
+          "name": "Charles Jourdain",
+          "record": "16-8-1",
+          "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/36724-charles-jourdain"
+        }
+      },
+      {
+        "main": true,
+        "weight": "185",
+        "fighterA": {
+          "name": "Paul Craig",
+          "record": "17-9-1",
+          "country": "https://www.tapology.com/assets/flags/SC-dd39c9a5b97877709cbe836f26935cffa2980685af503de666eb608021ae6d4a.gif",
+          "picture": "https://images.tapology.com/headshot_images/25338/preview/Paul-Craig-hs.jpg?1455662465",
+          "link": "https://www.tapology.com/fightcenter/fighters/25338-paul-craig"
+        },
+        "fighterB": {
+          "name": "Rodolfo Bellato",
+          "record": "12-2-1",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/76570-rodolfo-bellato"
+        }
+      },
+      {
+        "main": false,
+        "weight": "125",
+        "fighterA": {
+          "name": "Jamey-Lyn Horth",
+          "record": "7-2",
+          "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+          "picture": "https://images.tapology.com/headshot_images/148703/preview/Jamey-Lyn_Horth-hs.jpg?1596075637",
+          "link": "https://www.tapology.com/fightcenter/fighters/148703-jamey-lyn-horth"
+        },
+        "fighterB": {
+          "name": "Tereza Bledá",
+          "record": "7-1",
+          "country": "https://www.tapology.com/assets/flags/CZ-fd39f029c844a50bb34633031ad34bbb46908989ad2ac072dbc2ee7a22da95e3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/169518-tereza-bieda"
+        }
+      },
+      {
+        "main": false,
+        "weight": "125",
+        "fighterA": {
+          "name": "Cody Durden",
+          "record": "17-7-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/68337/preview/Cody-Durden-hs.jpg?1596331793",
+          "link": "https://www.tapology.com/fightcenter/fighters/68337-cody-durden"
+        },
+        "fighterB": {
+          "name": "Jose Ochoa",
+          "record": "7-1",
+          "country": "https://www.tapology.com/assets/flags/PE-f85092db2c51d3968a1ad4b9b03b0caa9fc0d4188d88a70eaef9798fdf24f3e9.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/149882-jose-alberto-ochoa-oblitas"
+        }
+      },
+      {
+        "main": false,
+        "weight": "170",
+        "fighterA": {
+          "name": "Phil Rowe",
+          "record": "10-5",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/37289/preview/Philip_Rowe-hs.JPG?1490902243",
+          "link": "https://www.tapology.com/fightcenter/fighters/37289-philip-rowe"
+        },
+        "fighterB": {
+          "name": "Ange Loosa",
+          "record": "10-4",
+          "country": "https://www.tapology.com/assets/flags/CH-16f88ef33fb6adf03093bb5d9935b5b34896d763fe8b93c7005a7208b76f949d.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/79954-ange-loosa"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "PFL 2025 World Tournament: Semifinals 2",
+    "date": "Friday, June 20,  5:30 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/122870-pfl-2025-world-tournament-semifinals-2",
+    "orgImage": "https://images.tapology.com/logo_squares/1969/icon_bw/Professional_Fighters_League-logo-square.jpg?1721407793",
+    "sport": "MMA",
+    "location": "Wichita, KS•\nUS Midwest Region",
+    "watch": "ESPN",
+    "fights": [
+      {
+        "main": true,
+        "weight": "125",
+        "fighterA": {
+          "name": "Liz Carmouche",
+          "record": "23-8",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/10675/preview/Carmouche-Liz-UFC157-1-hs.jpg?1421790244",
+          "link": "https://www.tapology.com/fightcenter/fighters/liz-carmouche-girl-rilla"
+        },
+        "fighterB": {
+          "name": "Elora Dana",
+          "record": "8-0",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/336289-elora-dana"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Justin Wetzell",
+          "record": "11-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/90866/preview/Justin_Wetzell-hs.jpg?1583257076",
+          "link": "https://www.tapology.com/fightcenter/fighters/90866-justin-wetzell"
+        },
+        "fighterB": {
+          "name": "Mando Gutierrez",
+          "record": "11-3",
+          "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/183445-mando-gutierrez"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Marcirley Alves",
+          "record": "13-4",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/174138/preview/durin2.jpg?1616379851",
+          "link": "https://www.tapology.com/fightcenter/fighters/174138-marcirley-alvis-da-silva-durin"
+        },
+        "fighterB": {
+          "name": "Jake Hadley",
+          "record": "12-4",
+          "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/87298-jake-hadley"
+        }
+      },
+      {
+        "main": false,
+        "weight": "125",
+        "fighterA": {
+          "name": "Jena Bishop",
+          "record": "8-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/211607/preview/Untitled6.jpg?1569925337",
+          "link": "https://www.tapology.com/fightcenter/fighters/211607-jena-bishop"
+        },
+        "fighterB": {
+          "name": "Ekaterina Shakalova",
+          "record": "9-2",
+          "country": "https://www.tapology.com/assets/flags/UA-cb48655348d284775d0c64345f5019fd621aacffe2c219c74db8038ebba29c85.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/229506-katarina-shakalova"
+        }
+      },
+      {
+        "main": false,
+        "weight": "155",
+        "fighterA": {
+          "name": "Brent Primus",
+          "record": "16-4",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/36792/preview/Brent-Primus-hs.jpg?1394125172",
+          "link": "https://www.tapology.com/fightcenter/fighters/36792-brent-primus"
+        },
+        "fighterB": {
+          "name": "Alfie Davis",
+          "record": "18-5-1",
+          "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/52606-alfie-davies"
+        }
+      },
+      {
+        "main": false,
+        "weight": "135",
+        "fighterA": {
+          "name": "Magomed Magomedov",
+          "record": "20-4",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/36037/preview/Magomed_Magomedov-hs.jpg?1614895234",
+          "link": "https://www.tapology.com/fightcenter/fighters/36037-magomed-magomedov"
+        },
+        "fighterB": {
+          "name": "Sarvarjon Khamidov",
+          "record": "16-0",
+          "country": "https://www.tapology.com/assets/flags/TJ-2b15c0defea66ee3481212e3abe217a37bcd36dacdf3ec7da3906928081a373c.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/179503-sarvadzhon-khamidov"
+        }
+      },
+      {
+        "main": false,
+        "weight": "155",
+        "fighterA": {
+          "name": "Tony Caruso",
+          "record": "10-2",
+          "country": "https://www.tapology.com/assets/flags/AU-429ed070b76f87de04728ef13b9d68e308be36cf4444bb32eb97564ae7016ff1.gif",
+          "picture": "https://images.tapology.com/headshot_images/65294/preview/Tony_Caruso-hs.jpg?1563030658",
+          "link": "https://www.tapology.com/fightcenter/fighters/65294-tony-caruso-sav"
+        },
+        "fighterB": {
+          "name": "Vinicius Cenci",
+          "record": "8-3",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/146862-vinicius-cenci"
+        }
+      },
+      {
+        "main": false,
+        "weight": "155",
+        "fighterA": {
+          "name": "Darragh Kelly",
+          "record": "7-0",
+          "country": "https://www.tapology.com/assets/flags/IE-3f973d9478a2318f1513cf34f7f6d0087cccdc961e1981231c6997a29dddf083.gif",
+          "picture": "https://images.tapology.com/headshot_images/182192/preview/Darragh_Kelly-hs.jpg?1574288951",
+          "link": "https://www.tapology.com/fightcenter/fighters/182192-darragh-kelly"
+        },
+        "fighterB": {
+          "name": "Dylan Salvador",
+          "record": "6-2",
+          "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/149209-dylan-salvador"
+        }
+      },
+      {
+        "main": false,
+        "weight": "135",
+        "fighterA": {
+          "name": "Matheus Mattos",
+          "record": "14-4-1",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/31157/preview/mattos2.jpg?1695694563",
+          "link": "https://www.tapology.com/fightcenter/fighters/31157-matheus-mattos"
+        },
+        "fighterB": {
+          "name": "Lazaro Dayron",
+          "record": "8-0-1",
+          "country": "https://www.tapology.com/assets/flags/CU-c8f714f6aaf0f0539c3f2dd4cc31d31992bb54a5966cf4c1e3bfc3f17991ed5a.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/272505-lazaro-dayron"
+        }
+      },
+      {
+        "main": false,
+        "weight": "125",
+        "fighterA": {
+          "name": "Saray Orozco",
+          "record": "8-6",
+          "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+          "picture": "https://images.tapology.com/headshot_images/115520/preview/37151793_439685443175296_2088188407548215296_n.jpg?1542721661",
+          "link": "https://www.tapology.com/fightcenter/fighters/115520-saray-orozco"
+        },
+        "fighterB": {
+          "name": "Ilara Joanne",
+          "record": "12-10",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/52811-ilara-joanne"
+        }
+      },
+      {
+        "main": false,
+        "weight": "170",
+        "fighterA": {
+          "name": "Alan Domínguez",
+          "record": "11-6",
+          "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+          "picture": "https://images.tapology.com/headshot_images/115510/preview/alan4.jpg?1742038502",
+          "link": "https://www.tapology.com/fightcenter/fighters/115510-alan-dominguez"
+        },
+        "fighterB": {
+          "name": "Nick Meck",
+          "record": "8-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/236715-nicholas-meck"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "UFC Fight Night: Hill vs. Rountree",
+    "date": "Saturday, June 21, 12:00 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/125838-ufc-fight-night",
+    "orgImage": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "sport": "MMA",
+    "location": "Baku, AZ•\nCaucasus Region",
+    "watch": "ESPN+",
+    "fights": [
+      {
+        "main": true,
+        "weight": "205",
+        "fighterA": {
+          "name": "Jamahal Hill",
+          "record": "12-3",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/120815/preview/47263906db33404c84bc36261998b458.jpg?1651726976",
+          "link": "https://www.tapology.com/fightcenter/fighters/120815-jamahal-hill"
+        },
+        "fighterB": {
+          "name": "Khalil Rountree Jr.",
+          "record": "13-6",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/47284-khalil-rountree-the-war-horse"
+        }
+      },
+      {
+        "main": true,
+        "weight": "155",
+        "fighterA": {
+          "name": "Rafael Fiziev",
+          "record": "12-4",
+          "country": "https://www.tapology.com/assets/flags/AZ-d06d676179ff49a1b7ec37455054c6f81b15b5064fa4739d8fd132f840a71c73.gif",
+          "picture": "https://images.tapology.com/headshot_images/108035/preview/maxresdefault.jpg?1679033175",
+          "link": "https://www.tapology.com/fightcenter/fighters/108035-rafael-fiziev"
+        },
+        "fighterB": {
+          "name": "Ignacio Bahamondes",
+          "record": "17-5",
+          "country": "https://www.tapology.com/assets/flags/CL-5e4c9be70c0e4d2de81a16354def60bd7b1e18fb659c4c1e157905f77a094a00.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/105800-ignacio-carabantes"
+        }
+      },
+      {
+        "main": true,
+        "weight": "185",
+        "fighterA": {
+          "name": "Ismail Naurdiev",
+          "record": "24-7",
+          "country": "https://www.tapology.com/assets/flags/MA-b4fe93a8fff956dfe6664e3427e26e5679d5a0d060766219f419ad60eadfc5fa.gif",
+          "picture": "https://images.tapology.com/headshot_images/79755/preview/Ismail_Naurdiev.jpg?1549508785",
+          "link": "https://www.tapology.com/fightcenter/fighters/79755-ismael-naurdiev"
+        },
+        "fighterB": {
+          "name": "Jun Yong Park",
+          "record": "18-6",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/64589-yoon-yong-park"
+        }
+      },
+      {
+        "main": true,
+        "weight": "265",
+        "fighterA": {
+          "name": "Curtis Blaydes",
+          "record": "18-5",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/51080/preview/Curtis_Blaydes-hs.jpg?1537808366",
+          "link": "https://www.tapology.com/fightcenter/fighters/51080-curtis-blaydes"
+        },
+        "fighterB": {
+          "name": "Rizvan Kuniev",
+          "record": "13-2-1",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/71638-rizvan-kuniev"
+        }
+      },
+      {
+        "main": true,
+        "weight": "125",
+        "fighterA": {
+          "name": "Tagir Ulanbekov",
+          "record": "16-2",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/130955/preview/Tagir_Ulanbekov.jpg?1608311968",
+          "link": "https://www.tapology.com/fightcenter/fighters/130955-tagir-ulanbekov"
+        },
+        "fighterB": {
+          "name": "Azat Maksum",
+          "record": "15-1",
+          "country": "https://www.tapology.com/assets/flags/KZ-8d03a35853709f9b577baab346c7fb8276ee77904bc2a1798564c32498c4dd68.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/204759-azat-maksum"
+        }
+      },
+      {
+        "main": false,
+        "weight": "265",
+        "fighterA": {
+          "name": "Mohammed Usman",
+          "record": "10-4",
+          "country": "https://www.tapology.com/assets/flags/NG-575bf37322d2ac63f8fb2c5d191599dcf13fc4dace1a6699945bdc7feb3793b4.gif",
+          "picture": "https://images.tapology.com/headshot_images/156538/preview/Mohammed_Usman.jpg?1615307702",
+          "link": "https://www.tapology.com/fightcenter/fighters/156538-mohammed-usman"
+        },
+        "fighterB": {
+          "name": "Hamdy Abdelwahab",
+          "record": "4-0",
+          "country": "https://www.tapology.com/assets/flags/EG-c4797fc5a264d79c48687869e06a478f0381dfa255ce320a6acfdb896a080c28.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/227049-hamdy-abdelwahab"
+        }
+      },
+      {
+        "main": false,
+        "weight": "135",
+        "fighterA": {
+          "name": "Irina Alekseeva",
+          "record": "5-2",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/213675/preview/Irina_%22Russian_Ronda%22_Alekseeva.jpg?1661886181",
+          "link": "https://www.tapology.com/fightcenter/fighters/213675-irina-alekseeva"
+        },
+        "fighterB": {
+          "name": "Klaudia Syguła",
+          "record": "6-2",
+          "country": "https://www.tapology.com/assets/flags/PL-6bfbe1335d2bffff514135a578895add253182687b5e5a81ded6bbf986755f29.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/172890-klaudia-sygua"
+        }
+      },
+      {
+        "main": false,
+        "weight": "135",
+        "fighterA": {
+          "name": "Darya Zheleznyakova",
+          "record": "9-2",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/229363/preview/darya.jpg?1678149606",
+          "link": "https://www.tapology.com/fightcenter/fighters/229363-dariya-zheleznyakova"
+        },
+        "fighterB": {
+          "name": "Melissa Mullins",
+          "record": "7-1",
+          "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/188856-melissa-mullins"
+        }
+      },
+      {
+        "main": false,
+        "weight": "155",
+        "fighterA": {
+          "name": "Nazim Sadykhov",
+          "record": "10-1-1",
+          "country": "https://www.tapology.com/assets/flags/AZ-d06d676179ff49a1b7ec37455054c6f81b15b5064fa4739d8fd132f840a71c73.gif",
+          "picture": "https://images.tapology.com/headshot_images/135516/preview/Nazim_Sadykhov.jpg?1653671936",
+          "link": "https://www.tapology.com/fightcenter/fighters/135516-nazim-sadykhov"
+        },
+        "fighterB": {
+          "name": "Nikolas Motta",
+          "record": "15-5",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/36808-nikolas-palhares"
+        }
+      },
+      {
+        "main": false,
+        "weight": "145",
+        "fighterA": {
+          "name": "Muhammad Naimov",
+          "record": "12-3",
+          "country": "https://www.tapology.com/assets/flags/TJ-2b15c0defea66ee3481212e3abe217a37bcd36dacdf3ec7da3906928081a373c.gif",
+          "picture": "https://images.tapology.com/headshot_images/136098/preview/Muhammadjon_Naimov-hs.png?1685460044",
+          "link": "https://www.tapology.com/fightcenter/fighters/136098-muhammadjon-naimov"
+        },
+        "fighterB": {
+          "name": "Bogdan Grad",
+          "record": "15-2",
+          "country": "https://www.tapology.com/assets/flags/AT-826172ba40c461b856ee6951e1f8344fd2f957734326225dbcfc9be3814dedeb.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/106776-bogdan-grad"
+        }
+      },
+      {
+        "main": false,
+        "weight": "155",
+        "fighterA": {
+          "name": "Myktybek Orolbai",
+          "record": "13-2-1",
+          "country": "https://www.tapology.com/assets/flags/KG-e82d667ad628d5c54faf7005581782432a868fed670c526bbd17e98405205cdb.gif",
+          "picture": "https://images.tapology.com/headshot_images/182971/preview/Screenshot.png?1709532293",
+          "link": "https://www.tapology.com/fightcenter/fighters/182971-myktybek-orolbaev"
+        },
+        "fighterB": {
+          "name": "Tofiq Musayev",
+          "record": "22-5",
+          "country": "https://www.tapology.com/assets/flags/AZ-d06d676179ff49a1b7ec37455054c6f81b15b5064fa4739d8fd132f840a71c73.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/60338-tofik-musaev"
+        }
+      },
+      {
+        "main": false,
+        "weight": "170",
+        "fighterA": {
+          "name": "Seok Hyun Ko",
+          "record": "11-2",
+          "country": "https://www.tapology.com/assets/flags/KR-e42a9245fe7a964cf4ac34edb421ac568cc76585c9715e1d0bf025f5e4fe5c89.gif",
+          "picture": "https://images.tapology.com/headshot_images/175557/preview/Untitled3.jpg?1673876778",
+          "link": "https://www.tapology.com/fightcenter/fighters/175557-seok-hyun-ko"
+        },
+        "fighterB": {
+          "name": "Oban Elliott",
+          "record": "12-2",
+          "country": "https://www.tapology.com/assets/flags/WA-070073e71da938368764801e6c208a8683db5917065d2b4018aeaefe2a5471de.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/150814-oban-elliot"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "PFL 2025 World Tournament: Semifinals 3",
+    "date": "Friday, June 27,  6:00 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/122871-pfl-2025-world-tournament-semifinals-3",
+    "orgImage": "https://images.tapology.com/logo_squares/1969/icon_bw/Professional_Fighters_League-logo-square.jpg?1721407793",
+    "sport": "MMA",
+    "location": "Chicago, IL•\nUS Midwest Region",
+    "watch": "ESPN",
+    "fights": [
+      {
+        "main": true,
+        "weight": "185",
+        "fighterA": {
+          "name": "Fabian Edwards",
+          "record": "14-4",
+          "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+          "picture": "https://images.tapology.com/headshot_images/106608/preview/Screenshot.png?1718741557",
+          "link": "https://www.tapology.com/fightcenter/fighters/106608-fabian-edwards"
+        },
+        "fighterB": {
+          "name": "Josh Silveira",
+          "record": "14-4",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/141127-joshua-dasilveira"
+        }
+      },
+      {
+        "main": true,
+        "weight": "205",
+        "fighterA": {
+          "name": "Phil Davis",
+          "record": "25-7",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/947/preview/Davis-Phil-UFC109-1.jpg?1421782787",
+          "link": "https://www.tapology.com/fightcenter/fighters/phil-davis-mr-wonderful"
+        },
+        "fighterB": {
+          "name": "Sullivan Cauley",
+          "record": "7-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/175706-sullivan-cauley"
+        }
+      },
+      {
+        "main": true,
+        "weight": "185",
+        "fighterA": {
+          "name": "Dalton Rosta",
+          "record": "10-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/152013/preview/Dalton_Rosta.jpg?1640033966",
+          "link": "https://www.tapology.com/fightcenter/fighters/152013-dalton-rosta"
+        },
+        "fighterB": {
+          "name": "Aaron Jeffery",
+          "record": "16-5",
+          "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/39683-aaron-jeffery"
+        }
+      },
+      {
+        "main": true,
+        "weight": "205",
+        "fighterA": {
+          "name": "Antônio Carlos Jr.",
+          "record": "17-6",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/54308/preview/Screenshot_%281%29.png?1710215884",
+          "link": "https://www.tapology.com/fightcenter/fighters/54308-antnio-carlos-junior-cara-de-sapato"
+        },
+        "fighterB": {
+          "name": "Simeon Powell",
+          "record": "11-1",
+          "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/203421-simeon-powell"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Sergio Pettis",
+          "record": "23-7",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/17135/preview/Sergio-Pettis-hs.jpg?1425924776",
+          "link": "https://www.tapology.com/fightcenter/fighters/17135-sergio-pettis"
+        },
+        "fighterB": {
+          "name": "Raufeon Stots",
+          "record": "21-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/64041-raufeon-stots"
+        }
+      },
+      {
+        "main": false,
+        "weight": "265",
+        "fighterA": {
+          "name": "Valentin Moldavsky",
+          "record": "14-4",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/95055/preview/Valentin_Moldavsky.jpg?1551741962",
+          "link": "https://www.tapology.com/fightcenter/fighters/95055-valentin-moldavsky"
+        },
+        "fighterB": {
+          "name": "Alexandr Romanov",
+          "record": "19-3",
+          "country": "https://www.tapology.com/assets/flags/MD-2a183deefcaca97f239bbb4dd7f0442ff212cabb065cd54fbf5c260006ee2ad4.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/144301-alexander-romanov"
+        }
+      },
+      {
+        "main": false,
+        "weight": "265",
+        "fighterA": {
+          "name": "Rodrigo Nascimento",
+          "record": "12-3",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/66758/preview/Rodrigo_Nascimento.png?1598403228",
+          "link": "https://www.tapology.com/fightcenter/fighters/66758-rodrigo-nascimento-z-colmeia"
+        },
+        "fighterB": {
+          "name": "Oleg Popov",
+          "record": "20-2",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/117155-oleg-popov"
+        }
+      },
+      {
+        "main": false,
+        "weight": "155",
+        "fighterA": {
+          "name": "Biaggio Ali Walsh",
+          "record": "2-0",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/335498/preview/2.png?1705429864",
+          "link": "https://www.tapology.com/fightcenter/fighters/335498-biaggio-walsh"
+        },
+        "fighterB": {
+          "name": "Ronnie Gibbs",
+          "record": "1-0",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/108480-ronnie-gibbs"
+        }
+      },
+      {
+        "main": false,
+        "weight": "265",
+        "fighterA": {
+          "name": "Sergey Bilostenniy",
+          "record": "13-4",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "picture": "https://images.tapology.com/headshot_images/104366/preview/Screenshot_%2811%29.png?1741750111",
+          "link": "https://www.tapology.com/fightcenter/fighters/104366-sergey-belostenniy"
+        },
+        "fighterB": {
+          "name": "Karl Williams",
+          "record": "10-3",
+          "country": "https://www.tapology.com/assets/flags/VI-baefc8f81c06c4e175bb9004822e5e7174015ea34324ef46f01b1fc7167fe616.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/215578-karl-williams"
+        }
+      },
+      {
+        "main": false,
+        "weight": "205",
+        "fighterA": {
+          "name": "Rafael Xavier",
+          "record": "13-8",
+          "country": "https://www.tapology.com/assets/flags/DE-fe6537c9506b556831a53eea4a8923eb299737671943539aa4a09fe807ea12aa.gif",
+          "picture": "https://images.tapology.com/headshot_images/67054/preview/Screenshot_%289%29.png?1741750034",
+          "link": "https://www.tapology.com/fightcenter/fighters/67054-rafael-xavier-kratos"
+        },
+        "fighterB": {
+          "name": "Karl Albrektsson",
+          "record": "14-7",
+          "country": "https://www.tapology.com/assets/flags/SE-95d4df00f6faac596e2154769f654e65156e2a0eac3c60b917e69f4d9e39dee8.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/56069-karl-albrektsson"
+        }
+      },
+      {
+        "main": false,
+        "weight": "185",
+        "fighterA": {
+          "name": "Jordan Newman",
+          "record": "7-0",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/191727/preview/Jordan_Newman-hs.jpg?1583261956",
+          "link": "https://www.tapology.com/fightcenter/fighters/191727-jordan-newman"
+        },
+        "fighterB": {
+          "name": "Khalid Murtazaliev",
+          "record": "17-3",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/98431-khalid-murtazaliev"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "UFC 317: Topuria vs. Oliveira",
+    "date": "Saturday, June 28,  6:00 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/124086-ufc-317",
+    "orgImage": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "sport": "MMA",
+    "location": "Las Vegas, NV•\nUS West Region",
+    "watch": "Pay Per View",
+    "fights": [
+      {
+        "main": true,
+        "weight": "155",
+        "fighterA": {
+          "name": "Ilia Topuria",
+          "record": "16-0",
+          "country": "https://www.tapology.com/assets/flags/GE-46e71ebd13f4e3f14b56f61538a1d026361bee9e3a68ed169cf30520d087c2fa.gif",
+          "picture": "https://images.tapology.com/headshot_images/129278/preview/Topuria-Hero.jpg?1659102670",
+          "link": "https://www.tapology.com/fightcenter/fighters/129278-ilia-topuria"
+        },
+        "fighterB": {
+          "name": "Charles Oliveira",
+          "record": "35-10",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/charles-oliveira-do-bronx"
+        }
+      },
+      {
+        "main": true,
+        "weight": "125",
+        "fighterA": {
+          "name": "Alexandre Pantoja",
+          "record": "29-5",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/12767/preview/Alexandre_Pantoja-hs.jpg?1630453707",
+          "link": "https://www.tapology.com/fightcenter/fighters/12767-alexandre-pantoja"
+        },
+        "fighterB": {
+          "name": "Kai Kara-France",
+          "record": "25-11",
+          "country": "https://www.tapology.com/assets/flags/NZ-2b0f973b2c46f6dbfeb8bd4c60d6c7478a55de6c1aefc758488174df394b3a59.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/24803-kaiwhare-kara-france"
+        }
+      },
+      {
+        "main": true,
+        "weight": "185",
+        "fighterA": {
+          "name": "Paulo Costa",
+          "record": "14-4",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/64306/preview/Screen_Shot_2020-12-02_at_5.46.51_AM.png?1606898823",
+          "link": "https://www.tapology.com/fightcenter/fighters/64306-paulo-henrique-costa-borrachinha"
+        },
+        "fighterB": {
+          "name": "Roman Kopylov",
+          "record": "14-3",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/138424-roman-kopylov"
+        }
+      },
+      {
+        "main": true,
+        "weight": "155",
+        "fighterA": {
+          "name": "Beneil Dariush",
+          "record": "22-6-1",
+          "country": "https://www.tapology.com/assets/flags/AY-4c124456672e2841d125267ca2a053c02d0eaaa4047cbfa984fa3b3d81deef79.gif",
+          "picture": "https://images.tapology.com/headshot_images/20010/preview/Beneil-Dariush.jpg?1546186792",
+          "link": "https://www.tapology.com/fightcenter/fighters/20010-beneil-dariush-benny"
+        },
+        "fighterB": {
+          "name": "Renato Moicano",
+          "record": "20-6-1",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/16950-renato-carneiro-moicano"
+        }
+      },
+      {
+        "main": false,
+        "weight": "155",
+        "fighterA": {
+          "name": "Michael Johnson",
+          "record": "23-19",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/10785/preview/michael-johnson_hs.jpg?1731612300",
+          "link": "https://www.tapology.com/fightcenter/fighters/michael-johnson-the-menace"
+        },
+        "fighterB": {
+          "name": "Daniel Zellhuber",
+          "record": "15-2",
+          "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/156784-daniel-olvera-zellhuber-zellhuber"
+        }
+      },
+      {
+        "main": false,
+        "weight": "125",
+        "fighterA": {
+          "name": "Brandon Royval",
+          "record": "17-7",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/25031/preview/Screenshot_%281%29.png?1734752015",
+          "link": "https://www.tapology.com/fightcenter/fighters/25031-brandon-royval"
+        },
+        "fighterB": {
+          "name": "Manel Kape",
+          "record": "21-7",
+          "country": "https://www.tapology.com/assets/flags/PT-f8503a107b2c4813b9cf17b32ff5431f349c2c378ad64bbccc5607034b5261a8.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/70075-manel-kape-prodigio"
+        }
+      },
+      {
+        "main": false,
+        "weight": "265",
+        "fighterA": {
+          "name": "Jhonata Diniz",
+          "record": "8-1",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/198829/preview/diniz2.jpg?1653145490",
+          "link": "https://www.tapology.com/fightcenter/fighters/198829-jhonata-diniz"
+        },
+        "fighterB": {
+          "name": "Justin Tafa",
+          "record": "7-5",
+          "country": "https://www.tapology.com/assets/flags/AU-429ed070b76f87de04728ef13b9d68e308be36cf4444bb32eb97564ae7016ff1.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/152336-justin-tafa"
+        }
+      },
+      {
+        "main": false,
+        "weight": "125",
+        "fighterA": {
+          "name": "Viviane Araujo",
+          "record": "13-6",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/106437/preview/Viviane_Araujo-hs.jpg?1557334235",
+          "link": "https://www.tapology.com/fightcenter/fighters/106437-viviane-araujo-vivi"
+        },
+        "fighterB": {
+          "name": "Tracy Cortez",
+          "record": "11-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/63711-tracy-cortez"
+        }
+      },
+      {
+        "main": false,
+        "weight": "185",
+        "fighterA": {
+          "name": "Jack Hermansson",
+          "record": "24-8",
+          "country": "https://www.tapology.com/assets/flags/SE-95d4df00f6faac596e2154769f654e65156e2a0eac3c60b917e69f4d9e39dee8.gif",
+          "picture": "https://images.tapology.com/headshot_images/13893/preview/Jack_Hermansson.jpg?1544408277",
+          "link": "https://www.tapology.com/fightcenter/fighters/13893-Jack-Hermansson"
+        },
+        "fighterB": {
+          "name": "Gregory Rodrigues",
+          "record": "16-6",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/78681-gregory-rodrigues-robocop"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "PFL Europe 2025: Brussels",
+    "date": "Saturday, July  5, 12:00 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/127948-pfl-europe-2025",
+    "orgImage": "https://images.tapology.com/logo_squares/1969/icon_bw/Professional_Fighters_League-logo-square.jpg?1721407793",
+    "sport": "MMA",
+    "location": "Brussels, BE•\nEurope Western Region",
+    "watch": "DAZN",
+    "fights": [
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Taylor Lapilus",
+          "record": "21-4",
+          "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+          "picture": "https://images.tapology.com/headshot_images/52612/preview/Screenshot_%281%29.png?1726634719",
+          "link": "https://www.tapology.com/fightcenter/fighters/52612-taylor-lapilus"
+        },
+        "fighterB": {
+          "name": "Ali Taleb",
+          "record": "12-1",
+          "country": "https://www.tapology.com/assets/flags/SE-95d4df00f6faac596e2154769f654e65156e2a0eac3c60b917e69f4d9e39dee8.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/122588-ali-taleb"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Dean Garnett",
+          "record": "12-3-1",
+          "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+          "picture": "https://images.tapology.com/headshot_images/22545/preview/garnett2.jpg?1691005186",
+          "link": "https://www.tapology.com/fightcenter/fighters/22545-dean-garnett"
+        },
+        "fighterB": {
+          "name": "Alexander Luster",
+          "record": "9-2",
+          "country": "https://www.tapology.com/assets/flags/DE-fe6537c9506b556831a53eea4a8923eb299737671943539aa4a09fe807ea12aa.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/159730-alexander-luster"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Mahio Campanella",
+          "record": "7-1",
+          "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+          "picture": "https://images.tapology.com/headshot_images/136060/preview/Screenshot_%281%29.png?1743786883",
+          "link": "https://www.tapology.com/fightcenter/fighters/136060-campanella-mahio"
+        },
+        "fighterB": {
+          "name": "Matiss Zaharovs",
+          "record": "7-3",
+          "country": "https://www.tapology.com/assets/flags/IE-3f973d9478a2318f1513cf34f7f6d0087cccdc961e1981231c6997a29dddf083.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/103833-alex-matiss"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Anas Azizoun",
+          "record": "5-1",
+          "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+          "picture": "https://images.tapology.com/headshot_images/261384/preview/anas3.jpg?1680109350",
+          "link": "https://www.tapology.com/fightcenter/fighters/261384-anas-azizoun"
+        },
+        "fighterB": {
+          "name": "Gustavo Oliveira",
+          "record": "10-2",
+          "country": "https://www.tapology.com/assets/flags/PT-f8503a107b2c4813b9cf17b32ff5431f349c2c378ad64bbccc5607034b5261a8.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/137405-gustavo-oliveira"
+        }
+      },
+      {
+        "main": true,
+        "weight": "135",
+        "fighterA": {
+          "name": "Julien Pierre Lopez",
+          "record": "7-4-1",
+          "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+          "picture": "https://images.tapology.com/headshot_images/116879/preview/IMG_20210322_133311.jpg?1616416433",
+          "link": "https://www.tapology.com/fightcenter/fighters/116879-julien-lopez"
+        },
+        "fighterB": {
+          "name": "Jan Ciepłowski",
+          "record": "8-0",
+          "country": "https://www.tapology.com/assets/flags/PL-6bfbe1335d2bffff514135a578895add253182687b5e5a81ded6bbf986755f29.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/225070-jan-cieplowski"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "UFC Fight Night: Lewis vs. Teixeira",
+    "date": "Saturday, July 12,  6:00 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/126523-ufc-fight-night",
+    "orgImage": "https://images.tapology.com/logo_squares/1/icon_bw/UFC-Ultimate-Fighting-Championship-logo-square.jpg?1721405585",
+    "sport": "MMA",
+    "location": "Nashville, TN•\nUS Southeast Region",
+    "watch": "ESPN+",
+    "fights": [
+      {
+        "main": true,
+        "weight": "265",
+        "fighterA": {
+          "name": "Derrick Lewis",
+          "record": "28-12",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/14023/preview/Derrick-Lewis-hs.jpeg?1424739614",
+          "link": "https://www.tapology.com/fightcenter/fighters/14023-derrick-lewis-the-black-beast"
+        },
+        "fighterB": {
+          "name": "Tallison Teixeira",
+          "record": "8-0",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/313650-xicao-teixeira"
+        }
+      },
+      {
+        "main": true,
+        "weight": "145",
+        "fighterA": {
+          "name": "Calvin Kattar",
+          "record": "23-9",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/1425/preview/Calvin_Kattar-hs.jpg?1516260048",
+          "link": "https://www.tapology.com/fightcenter/fighters/calvin-kattar-the-boston-finisher"
+        },
+        "fighterB": {
+          "name": "Steve Garcia",
+          "record": "17-5",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/41407-steve-garcia-jr"
+        }
+      },
+      {
+        "main": false,
+        "weight": "125",
+        "fighterA": {
+          "name": "Lauren Murphy",
+          "record": "16-6",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/42982/preview/Lauren_Murphy-hs.jpg?1603158167",
+          "link": "https://www.tapology.com/fightcenter/fighters/42982-lauren-taylor"
+        },
+        "fighterB": {
+          "name": "Eduarda Moura",
+          "record": "11-1",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/292626-eduarda-moura"
+        }
+      },
+      {
+        "main": false,
+        "weight": "115",
+        "fighterA": {
+          "name": "Fatima Kline",
+          "record": "7-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/194482/preview/Fatima_KOreps.png?1720309985",
+          "link": "https://www.tapology.com/fightcenter/fighters/194482-fatima-kline"
+        },
+        "fighterB": {
+          "name": "Melissa Martinez",
+          "record": "8-1",
+          "country": "https://www.tapology.com/assets/flags/MX-1cc0876e76b73a2195de1b68812ac8c0812fe99c7ada8a43db91b6f1d28cd113.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/113003-melissa-martinez"
+        }
+      },
+      {
+        "main": false,
+        "weight": "265",
+        "fighterA": {
+          "name": "Vitor Petrino",
+          "record": "11-2",
+          "country": "https://www.tapology.com/assets/flags/BR-45af1ab77cd750eff617a8b71f64b318c9a4ecf06c863a2c63cff71550930fe7.gif",
+          "picture": "https://images.tapology.com/headshot_images/158172/preview/Vitor_Petrino.png?1690584485",
+          "link": "https://www.tapology.com/fightcenter/fighters/158172-vitor-petrino"
+        },
+        "fighterB": {
+          "name": "Austen Lane",
+          "record": "13-6",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/131141-austen-lane"
+        }
+      },
+      {
+        "main": false,
+        "weight": "185",
+        "fighterA": {
+          "name": "Ateba Gautier",
+          "record": "7-1",
+          "country": "https://www.tapology.com/assets/flags/CM-43aa7f04f4d2fd5a8e4e9492f5669d64c5f03382311e678af8254f22a8fda0ad.gif",
+          "picture": "https://images.tapology.com/headshot_images/283766/preview/Screenshot_%281%29.png?1748134718",
+          "link": "https://www.tapology.com/fightcenter/fighters/283766-ateba-abega-gautier"
+        },
+        "fighterB": {
+          "name": "Robert Valentin",
+          "record": "10-5",
+          "country": "https://www.tapology.com/assets/flags/CH-16f88ef33fb6adf03093bb5d9935b5b34896d763fe8b93c7005a7208b76f949d.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/136498-robert-valentin"
+        }
+      }
+    ]
   },
   {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
-  },
-  {
-    "date": "",
-    "title": "",
-    "fights": []
+    "title": "PFL Champions Series: Eblen vs. van Steeni...",
+    "date": "Saturday, July 19, 12:00 PM ET",
+    "link": "https://www.tapology.com/fightcenter/events/127913-pfl-champions-series-eblen-vs-van-steenis",
+    "orgImage": "https://images.tapology.com/logo_squares/1969/icon_bw/Professional_Fighters_League-logo-square.jpg?1721407793",
+    "sport": "MMA",
+    "location": "Cape Town, WC•\nSouth Africa Region",
+    "watch": "",
+    "fights": [
+      {
+        "main": true,
+        "weight": "185",
+        "fighterA": {
+          "name": "Johnny Eblen",
+          "record": "16-0",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/140953/preview/Johnny_Eblen-hs.jpg?1602037023",
+          "link": "https://www.tapology.com/fightcenter/fighters/140953-johnny-eblen-john"
+        },
+        "fighterB": {
+          "name": "Costello van Steenis",
+          "record": "16-3",
+          "country": "https://www.tapology.com/assets/flags/NL-950f29b50fc57eca1db9ad8046cee33cdbd8450530088f9b54a55701dd38cab3.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/98151-costello-van-steenis-the-spaniard"
+        }
+      },
+      {
+        "main": true,
+        "weight": "125",
+        "fighterA": {
+          "name": "Dakota Ditcheva",
+          "record": "14-0",
+          "country": "https://www.tapology.com/assets/flags/EN-8827659e8d7420a63b539ec01ff4896ba38924164abd5a09457325e7b0bdf0fe.gif",
+          "picture": "https://images.tapology.com/headshot_images/216494/preview/Screenshot_%285%29.png?1722618258",
+          "link": "https://www.tapology.com/fightcenter/fighters/216494-dakota-ditcheva"
+        },
+        "fighterB": {
+          "name": "Sumiko Inaba",
+          "record": "8-1",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/113239-sumiko-inaba"
+        }
+      },
+      {
+        "main": true,
+        "weight": "155",
+        "fighterA": {
+          "name": "AJ McKee Jr.",
+          "record": "22-2",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/69323/preview/AJ_McKee_J-hsr.jpg?1518074786",
+          "link": "https://www.tapology.com/fightcenter/fighters/69323-antonio-mckee-jr"
+        },
+        "fighterB": {
+          "name": "Akhmed Magomedov",
+          "record": "10-3",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/48282-ahmed-magomedov"
+        }
+      },
+      {
+        "main": true,
+        "weight": "265",
+        "fighterA": {
+          "name": "Corey Anderson",
+          "record": "18-6",
+          "country": "https://www.tapology.com/assets/flags/US-a475dadb4ff06978c183ce83b21741c1785beee26da55853490373f5eb2ca9b0.gif",
+          "picture": "https://images.tapology.com/headshot_images/29807/preview/Corey-Anderson-hs.jpeg?1422414160",
+          "link": "https://www.tapology.com/fightcenter/fighters/29807-corey-anderson"
+        },
+        "fighterB": {
+          "name": "Denis Goltsov",
+          "record": "36-8",
+          "country": "https://www.tapology.com/assets/flags/RU-3ce9ca248b0d428f663c68cea5b91068d901c71d77fcb4be147e8d0e7500d724.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/13594-Denis-Goltsov"
+        }
+      },
+      {
+        "main": false,
+        "weight": "265",
+        "fighterA": {
+          "name": "Jashell Ticha Awa",
+          "record": "3-1",
+          "country": "https://www.tapology.com/assets/flags/CM-43aa7f04f4d2fd5a8e4e9492f5669d64c5f03382311e678af8254f22a8fda0ad.gif",
+          "picture": "https://images.tapology.com/headshot_images/324884/preview/Screenshot-hs.png?1746636425",
+          "link": "https://www.tapology.com/fightcenter/fighters/324884-javier-ticha-awa"
+        },
+        "fighterB": {
+          "name": "Justin Clarke",
+          "record": "2-0",
+          "country": "https://www.tapology.com/assets/flags/ZA-a3aa7d83bdd9ca94a47166eeecda2c86a48ab09e142151026ae91a2b876efd29.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/440187-justin-clarke"
+        }
+      },
+      {
+        "main": false,
+        "weight": "265",
+        "fighterA": {
+          "name": "Abdoullah Kane",
+          "record": "3-0",
+          "country": "https://www.tapology.com/assets/flags/SN-4d85b25f53ca0cf3bc555a03dc854b78e568e8cc4be583efcba98879b95efbc9.gif",
+          "picture": "https://images.tapology.com/headshot_images/429774/preview/abdoulaya.jpg?1709607755",
+          "link": "https://www.tapology.com/fightcenter/fighters/429774-abdoullah-kane"
+        },
+        "fighterB": {
+          "name": "Mohammad Ben Yahia",
+          "record": "9-4",
+          "country": "https://www.tapology.com/assets/flags/MA-b4fe93a8fff956dfe6664e3427e26e5679d5a0d060766219f419ad60eadfc5fa.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/94810-mohammad-ben-yahia"
+        }
+      },
+      {
+        "main": false,
+        "weight": "135",
+        "fighterA": {
+          "name": "Nkosi Ndebele",
+          "record": "8-3",
+          "country": "https://www.tapology.com/assets/flags/ZA-a3aa7d83bdd9ca94a47166eeecda2c86a48ab09e142151026ae91a2b876efd29.gif",
+          "picture": "https://images.tapology.com/headshot_images/132615/preview/Screenshot.png?1733640109",
+          "link": "https://www.tapology.com/fightcenter/fighters/132615-nkosi-ndebele"
+        },
+        "fighterB": {
+          "name": "Mahmoud Atef",
+          "record": "5-2",
+          "country": "https://www.tapology.com/assets/flags/EG-c4797fc5a264d79c48687869e06a478f0381dfa255ce320a6acfdb896a080c28.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/286330-mahmoud-atef"
+        }
+      },
+      {
+        "main": false,
+        "weight": "265",
+        "fighterA": {
+          "name": "Maxwell Djantou Nana",
+          "record": "6-1",
+          "country": "https://www.tapology.com/assets/flags/CM-43aa7f04f4d2fd5a8e4e9492f5669d64c5f03382311e678af8254f22a8fda0ad.gif",
+          "picture": "https://images.tapology.com/headshot_images/343664/preview/Screenshot_%281%29.png?1747763960",
+          "link": "https://www.tapology.com/fightcenter/fighters/343664-maxwell-djantou-nana"
+        },
+        "fighterB": {
+          "name": "Mickaël Groguhe",
+          "record": "6-2",
+          "country": "https://www.tapology.com/assets/flags/FR-248b89ba2ff4082e66fda00d7c9f83f14758c838c0abd9fd0e4943ee402be29b.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/309466-mickael-groguhe"
+        }
+      },
+      {
+        "main": false,
+        "weight": "135",
+        "fighterA": {
+          "name": "Shannon van Tonder",
+          "record": "7-2",
+          "country": "https://www.tapology.com/assets/flags/ZA-a3aa7d83bdd9ca94a47166eeecda2c86a48ab09e142151026ae91a2b876efd29.gif",
+          "picture": "https://images.tapology.com/headshot_images/166942/preview/shannon2.jpg?1675809286",
+          "link": "https://www.tapology.com/fightcenter/fighters/166942-shannon-von-tonder"
+        },
+        "fighterB": {
+          "name": "Boule Godogo",
+          "record": "3-0",
+          "country": "https://www.tapology.com/assets/flags/CD-fcff60ed340ff1c6ef0fe67e15d457cea80c8be988c915f83316d86690483dda.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/213815-boule-godogo"
+        }
+      },
+      {
+        "main": false,
+        "weight": "135",
+        "fighterA": {
+          "name": "Antero dos Santos",
+          "record": "5-0",
+          "country": "https://www.tapology.com/assets/flags/AO-7384a03b9b83b5873a5bd1fc41b97b2d30ff410177303aaf08acf4c3495a52c1.gif",
+          "picture": "https://images.tapology.com/headshot_images/213648/preview/antero2.jpg?1732616463",
+          "link": "https://www.tapology.com/fightcenter/fighters/213648-antero-dos-santos"
+        },
+        "fighterB": {
+          "name": "Karim Henniene",
+          "record": "4-0",
+          "country": "https://www.tapology.com/assets/flags/CA-ce6ad43e18030f818ef194052e9587e6d9941cb4401751955611223ec2d2c848.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/200462-karim-hemnience"
+        }
+      },
+      {
+        "main": false,
+        "weight": "135",
+        "fighterA": {
+          "name": "Simbarashe Hokonya",
+          "record": "5-0",
+          "country": "https://www.tapology.com/assets/flags/ZW-40ea7691c173608b918f0dd0155af484b7ad653640a2c3a9fdc5ee7d2e3078ba.gif",
+          "picture": "https://images.tapology.com/headshot_images/358225/preview/hokonya.jpg?1683820194",
+          "link": "https://www.tapology.com/fightcenter/fighters/358225-simbarashe-hokonya"
+        },
+        "fighterB": {
+          "name": "Alain Majorique",
+          "record": "5-0",
+          "country": "https://www.tapology.com/assets/flags/CM-43aa7f04f4d2fd5a8e4e9492f5669d64c5f03382311e678af8254f22a8fda0ad.gif",
+          "link": "https://www.tapology.com/fightcenter/fighters/341691-alain-majorique"
+        }
+      }
+    ]
   }
 ]

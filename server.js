@@ -10,10 +10,23 @@ const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 
+const { isCacheFresh, readCache, writeCache } = require("./utils/cache");
+
 app.get("/api/events", async (req, res) => {
+  const forceRefresh = req.query.refresh === "true";
+
   try {
+    if (!forceRefresh && isCacheFresh()) {
+      const cachedData = readCache();
+      if (cachedData) {
+        return res.json(cachedData);
+      }
+    }
+
     const events = await fetchUpcomingEvents();
     const detailedEvents = await fetchEventDetails(events);
+
+    writeCache(detailedEvents);
     res.json(detailedEvents);
   } catch (error) {
     res

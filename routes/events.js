@@ -5,7 +5,6 @@ const {
   fetchEventDetails,
 } = require("../scrapers/tapology");
 
-// Basic route example
 router.get("/", async (req, res) => {
   try {
     const events = await fetchUpcomingEvents();

@@ -23,21 +23,17 @@ const fetchUpcomingEvents = async () => {
         const title = eventLink.first().text().trim();
         const link = baseUrl + eventLink.first().attr("href");
 
-        // Date
         const date = $(el).find(".promotion span").eq(3).text().trim();
 
-        // Organization logo (img src)
         const orgImage = $(el).find("img[alt]").attr("src") || null;
 
-        // Geography & Sport
         const geo = $(el).find(".geography");
         const sport = geo.find("span.sport").text().trim();
 
         const location =
-          geo.find("span.hidden.md\\:inline").text().trim() || // full "Seoul, KR"
-          geo.find("span.inline.md\\:hidden").text().trim(); // fallback "Seoul"
+          geo.find("span.hidden.md\\:inline").text().trim() ||
+          geo.find("span.inline.md\\:hidden").text().trim();
 
-        // Viewing platform (e.g., "Internet PPV", "ESPN+")
         const watchInfo = $(el)
           .find("div.div.hidden.md\\:inline span")
           .last()
@@ -61,7 +57,7 @@ const fetchUpcomingEvents = async () => {
           !title.includes("ONE FRIDAY FIGHTS")
         );
       })
-      .slice(0, 20); // Limit to 20 events
+      .slice(0, 20);
 
     return events;
   } catch (error) {

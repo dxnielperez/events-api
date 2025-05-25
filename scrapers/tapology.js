@@ -90,21 +90,53 @@ const fetchEventDetails = async (events) => {
               ".div.flex.flex-row.gap-0\\.5.md\\:gap-0.w-full"
             );
 
-            const parseFighter = (container) => ({
-              name: container.find(".link-primary-red").text().trim(),
-              record: container
-                .find(".text-\\[15px\\].md\\:text-xs")
+            const fighterAContainer = fighterContainers.eq(0);
+            const fighterA = {
+              name: fighterAContainer.find(".link-primary-red").text().trim(),
+              record: fighterAContainer
+                .find(".text-\\[15px\\].md\\:text-xs.order-2")
                 .text()
                 .trim(),
               country:
                 baseUrl +
-                container.find(".opacity-70.h-\\[14px\\]").attr("src"),
-              picture: container.find(".rounded").attr("src"),
-              link: baseUrl + container.find(".link-primary-red").attr("href"),
-            });
+                fighterAContainer
+                  .find(
+                    ".opacity-70.h-\\[14px\\].md\\:h-\\[11px\\].w-\\[22px\\].md\\:w-\\[17px\\]"
+                  )
+                  .attr("src"),
+              picture: fighterAContainer
+                .find(
+                  ".w-\\[77px\\].h-\\[77px\\].md\\:w-\\[104px\\].md\\:h-\\[104px\\].rounded"
+                )
+                .attr("src"),
+              link:
+                baseUrl +
+                fighterAContainer.find(".link-primary-red").attr("href"),
+            };
 
-            const fighterA = parseFighter(fighterContainers.eq(0));
-            const fighterB = parseFighter(fighterContainers.eq(1));
+            const fighterBContainer = fighterContainers.eq(1);
+            const fighterB = {
+              name: fighterBContainer.find(".link-primary-red").text().trim(),
+              record: fighterBContainer
+                .find(".text-\\[15px\\].md\\:text-xs.order-1")
+                .text()
+                .trim(),
+              country:
+                baseUrl +
+                fighterBContainer
+                  .find(
+                    ".opacity-70.h-\\[14px\\].md\\:h-\\[11px\\].w-\\[22px\\].md\\:w-\\[17px\\]"
+                  )
+                  .attr("src"),
+              picture: fighterBContainer
+                .find(
+                  ".w-\\[77px\\].h-\\[77px\\].md\\:w-\\[104px\\].md\\:h-\\[104px\\].rounded"
+                )
+                .attr("src"),
+              link:
+                baseUrl +
+                fighterBContainer.find(".link-primary-red").attr("href"),
+            };
 
             return { main, weight, fighterA, fighterB };
           });

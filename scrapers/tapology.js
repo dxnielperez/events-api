@@ -30,9 +30,17 @@ const fetchUpcomingEvents = async () => {
         const geo = $(el).find(".geography");
         const sport = geo.find("span.sport").text().trim();
 
-        const location =
-          geo.find("span.hidden.md\\:inline").text().trim() ||
-          geo.find("span.inline.md\\:hidden").text().trim();
+        const location = geo
+          .find("span.hidden.md\\:inline")
+          .first()
+          .text()
+          .trim();
+
+        const region = geo
+          .find('a[title="MMA Region Page"]')
+          .text()
+          .replace(/ Region$/i, "")
+          .trim();
 
         const watchInfo = $(el)
           .find("div.div.hidden.md\\:inline span")
@@ -47,6 +55,7 @@ const fetchUpcomingEvents = async () => {
           orgImage,
           sport,
           location,
+          region,
           watch: watchInfo,
         };
       })

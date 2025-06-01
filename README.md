@@ -43,4 +43,3 @@ A basic web scraper and API that shows upcoming MMA events from [tapology.com](h
   }
 ]
 ```
-For inquiries, please contact me via [www.dxniel.dev](https://www.dxniel.dev).

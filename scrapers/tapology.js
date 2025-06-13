@@ -79,7 +79,13 @@ const fetchEventDetails = async (events) => {
   try {
     const eventsWithFights = await Promise.all(
       events.map(async (event) => {
-        const { data: html } = await axios.get(event.link);
+        const { data: html } = await axios.get(event.link, {
+          headers: {
+            "User-Agent":
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+          },
+        });
+
         const $ = cheerio.load(html);
 
         const fights = $('ul[data-event-view-toggle-target="list"] li')

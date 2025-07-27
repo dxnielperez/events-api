@@ -16,5 +16,4 @@ router.get("/", async (req, res) => {
       .json({ message: "Failed to fetch events", error: error.message });
   }
 });
-
 module.exports = router;
